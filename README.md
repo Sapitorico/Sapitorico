@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif?resize=1024%2C576&ssl=1)
+![img](https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif?resize=1024%2C576&ssl=1)
 
 <!--
 **Sapitorico/Sapitorico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
