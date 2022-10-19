@@ -1,20 +1,22 @@
-<h1 align="center">Hi there 👋 Renzo Yauqes</h1>
+<h1 align="center">Hi there 👋, i´mi am Renzo Yauqes - Alias **Sapitorico**</h1>
+<h3 align="center">I am a Student Full Stack Developer 💻, studying at Holberton School Uruguay.</h3>
 
-![img](https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif)
-
-<h3 align="center">I am a Software Engineering student, studying at Holberton School Uruguay.</h3>
+<img src="https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif" width="500"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapitorico&label=Profile%20views&color=0e75b6&style=flat" alt="sapitorico" /> </p>
 
-- 👨💻 All my projects are available at [https://github.com/Sapitorico?tab=repositories](https://github.com/Sapitorico?tab=repositories)
+- 🔭 I am currently in first trimester of school [holbertonschool-low_level_programming](https://github.com/Sapitorico/holbertonschool-low_level_programming)
+
+- 👨💻 All my projects are available at [https://github.com/sapitorico](https://github.com/sapitorico)
 
 - 📫 How to reach me **renzoyaques@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/renzo yaques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renzo yaques" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/renzo-yaques-b36456253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-yaques-b36456253/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:20286128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20286128" height="30" width="40" /></a>
 <a href="https://instagram.com/_sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sapitorico" height="30" width="40" /></a>
-<a href="https://discord.gg/sapitorico #8852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sapitorico #8852" height="30" width="40" /></a>
+<a href="https://discord.gg/#8852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8852" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
