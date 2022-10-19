@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋 Renzo Yauqes</h1>
+
 ![img](https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif)
+
 <h3 align="center">I am a Software Engineering student, studying at Holberton School Uruguay.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapitorico&label=Profile%20views&color=0e75b6&style=flat" alt="sapitorico" /> </p>
