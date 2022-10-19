@@ -1,8 +1,7 @@
+<div id="header" align=""center">
+<img src="https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif" width="200"/>
 <h1 align="center">Hi there 👋, i´mi am Renzo Yauqes - Alias Sapitorico</h1>
 <h3 align="center">I am a Student Full Stack Developer 💻, studying at Holberton School Uruguay.</h3>
-
-<img src="https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif" width="800"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapitorico&label=Profile%20views&color=0e75b6&style=flat" alt="sapitorico" /> </p>
 
 - 🔭 I am currently in first trimester of school [holbertonschool-low_level_programming](https://github.com/Sapitorico/holbertonschool-low_level_programming)
@@ -25,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapitorico&show_icons=true&locale=en&layout=compact" alt="sapitorico" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapitorico&show_icons=true&locale=en" alt="sapitorico" /></p>
+                                                                                                                                            </div>
