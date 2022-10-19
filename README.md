@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapitorico&label=Profile%20views&color=0e75b6&style=flat" alt="sapitorico" /> </p>
 
-- 👨💻 Todos mis proyectos están disponibles en [https://github.com/sapitorico](https://github.com/sapitorico)
+- 👨💻 All my projects are available at [https://github.com/Sapitorico?tab=repositories](https://github.com/Sapitorico?tab=repositories)
 
 - 📫 How to reach me **renzoyaques@gmail.com**
 
