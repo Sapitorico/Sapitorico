@@ -1,5 +1,5 @@
 <div id="header" align=""center">
-<h1 align="center">Hi there 👋, i´mi am Renzo Yauqes - Alias Sapitorico</h1>
+<h1 align="center">Hi there 👋, i´mi Renzo Yaques - Alias Sapitorico</h1>
 <img src="https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif" width="900"/>
 <h3 align="center">I am a Student Full Stack Developer 💻, studying at Holberton School Uruguay.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapitorico&label=Profile%20views&color=0e75b6&style=flat" alt="sapitorico" /> </p>
