@@ -1,6 +1,8 @@
 <div id="header" align=""center">
 <h1 align="center">Hi there 👋, i´mi Renzo Yaques - Alias Sapitorico</h1>
-<img src="https://i0.wp.com/benjaminasimpson.com/wp-content/uploads/2020/08/dduhv5w-039efbec-4bc3-403f-903f-d57667868329.gif" width="900"/>
+
+![tumblr_70eee16f4e8070c06af1ba2203cbbd37_477c30ca_1280](https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif)
+
 <h3 align="center">I am a Student Full Stack Developer 💻, studying at Holberton School Uruguay.</h3>
 
 - 🔭 I am currently in first trimester of school [holbertonschool-low_level_programming](https://github.com/Sapitorico/holbertonschool-low_level_programming)
