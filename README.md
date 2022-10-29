@@ -6,7 +6,7 @@
   <table align="right">
 <tr>
 <td>
-<a href="linkedin.com/in/renzo-yaques-b36456253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-yaques-b36456253/" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/renzo-yaques-b36456253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-yaques-b36456253/" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/20286128/sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20286128" height="20" width="30" /></a>
 <a href="https://instagram.com/_sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sapitorico" height="20" width="30" /></a>
 </td>
