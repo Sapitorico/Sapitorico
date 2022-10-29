@@ -4,3 +4,17 @@
     <h1  class="page_title" align="center">Hi there 👋, i´mi Renzo Yaques - Alias Sapitorico</h1>
     <h2 align="center">I am a Student Full Stack Developer 💻, studying at Holberton School Uruguay.</h2>
   </div>
+<table align="right">
+<tr>
+<td>
+
+[<img align="left" alt="Sapitorico | YouTube" width="22px" src="./src/linkedin.png" />][youtube]
+[<img align="left" alt="@Sapitorico | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@Sapitorico | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="Sapitorico | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="@Sapitorico | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+
+</td>
+</tr>
+</table>
+
