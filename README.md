@@ -3,20 +3,6 @@
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcS0K8idNvrOKgP5sH-_q4BKi3lkCyVSeag&usqp=CAU" alt="icono_de_sapo" style="width:50px;height:50px;">
     <h1  class="page_title" align="center">Hi there 👋, i´mi Renzo Yaques - Alias Sapitorico</h1>
   </div>
-<table align="right">
-<tr>
-<td>
-
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
-
-</td>
-</tr>
-</table>
-
 <details>
   <summary>:zap: About me!</summary>
 
