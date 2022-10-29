@@ -10,6 +10,12 @@
 - 🔭 I am currently in first trimester of school [holbertonschool-low_level_programming](https://github.com/Sapitorico/holbertonschool-low_level_programming)
 - 👨💻 All my projects are available at [https://github.com/sapitorico](https://github.com/sapitorico)
 - 📫 How to reach me **renzoyaques@gmail.com**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://https://www.linkedin.com/in/renzo-yaques-b36456253//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-yaques-b36456253/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20286128/sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20286128" height="30" width="40" /></a>
+<a href="https://instagram.com/_sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sapitorico" height="30" width="40" /></a>
+</p>
 </details>
 
 <br />
@@ -30,8 +36,4 @@
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
     
 ---
-[twitter]: https://twitter.com/mctechnology17
-[youtube]: https://www.youtube.com/c/mctechnology17
-[instagram]: https://www.instagram.com/mctechnology17/
-[facebook]: https://m.facebook.com/mctechnology17/
-[reddit]:https://www.reddit.com/user/mctechnology17
+[instagram]: https://www.instagram.com/_sapitorico/
