@@ -2,6 +2,16 @@
     <img src="https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif" width="500"/>
     <h1  class="page_title" align="center">Hi there 👋, i´mi Renzo Yaques - Alias Sapitorico <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcS0K8idNvrOKgP5sH-_q4BKi3lkCyVSeag&usqp=CAU" alt="icono_de_sapo" style="width:20px;height:20px;"></h1>
   </div>
+  
+  <table align="right">
+<tr>
+<td>
+<a href="https://https://www.linkedin.com/in/renzo-yaques-b36456253//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-yaques-b36456253/" height="20" width="30" /></a>
+<a href="https://stackoverflow.com/users/20286128/sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20286128" height="20" width="30" /></a>
+<a href="https://instagram.com/_sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sapitorico" height="20" width="30" /></a>
+</td>
+</tr>
+</table>
 <details>
     
   <summary>:zap: About me!</summary>
@@ -10,13 +20,6 @@
 - 🔭 I am currently in first trimester of school [holbertonschool-low_level_programming](https://github.com/Sapitorico/holbertonschool-low_level_programming)
 - 👨💻 All my projects are available at [https://github.com/sapitorico](https://github.com/sapitorico)
 - 📫 How to reach me **renzoyaques@gmail.com**
-    
-<h2 align="left">Connect with me:</h2>
-    
-<p align="left">
-<a href="https://https://www.linkedin.com/in/renzo-yaques-b36456253//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renzo-yaques-b36456253/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20286128/sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20286128" height="30" width="40" /></a>
-<a href="https://instagram.com/_sapitorico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sapitorico" height="30" width="40" /></a>
 </p>
 </details>
 
