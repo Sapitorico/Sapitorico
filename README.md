@@ -40,6 +40,7 @@
 </div>
     
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
     
 ---
 [instagram]: https://www.instagram.com/_sapitorico/
