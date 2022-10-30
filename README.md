@@ -39,8 +39,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapitorico&layout=compact&langs_count=7&theme=radical"/>
 </div>
     
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
-    
+![Snake animation](https://raw.githubusercontent.com/Sapitorico/Sapitorico/b6e1c169d533bfe72640b2603eee6e3f9320241c/github-contribution-grid-snake.svg) 
+ 
 ---
 [instagram]: https://www.instagram.com/_sapitorico/
