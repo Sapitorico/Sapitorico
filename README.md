@@ -20,6 +20,7 @@
 - 🔭 I am currently in first trimester of school [holbertonschool-low_level_programming](https://github.com/Sapitorico/holbertonschool-low_level_programming)
 - 👨💻 All my projects are available at [https://github.com/sapitorico](https://github.com/sapitorico)
 - 📫 How to reach me **renzoyaques@gmail.com**
+- 👨‍💻my current project is available at: [https://github.com/Sapitorico/holbertonschool-printf]
 </p>
 </details>
 
