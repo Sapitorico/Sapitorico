@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif" width="500"/>
-    <h1  class="page_title" align="center">Hi there 👋, i´am Renzo Yaques - Alias Sapitorico <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcS0K8idNvrOKgP5sH-_q4BKi3lkCyVSeag&usqp=CAU" alt="icono_de_sapo" style="width:20px;height:20px;"></h1>
+    <h1  class="page_title" align="center">Hi there 👋, I am Renzo Yaques - Alias Sapitorico <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcS0K8idNvrOKgP5sH-_q4BKi3lkCyVSeag&usqp=CAU" alt="icono_de_sapo" style="width:20px;height:20px;"></h1>
   </div>
   
   <table align="right">
