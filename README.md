@@ -30,7 +30,7 @@
     [![Readme Card](https://github.com/Sapitorico/holbertonschool-printf)
     
     [![Readme Card](https://github.com/Sapitorico/holbertonschool-simple_shell)
-    
+</details>   
 
 <br />
 
