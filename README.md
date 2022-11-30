@@ -37,10 +37,11 @@
 <div>
     
   <a href="https://github.com/Sapitorico">
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapitorico" alt="Sapitorico" />
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapitorico&theme=github" />
+     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sapitorico&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapitorico&layout=compact&langs_count=7&theme=radical"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapitorico&layout=compact&langs_count=7&theme=radical" alt="Sapitorico" />
+      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapitorico&theme=github" />
 </div>
     
 ![Snake animation](https://raw.githubusercontent.com/Sapitorico/Sapitorico/b6e1c169d533bfe72640b2603eee6e3f9320241c/github-contribution-grid-snake.svg) 
