@@ -25,11 +25,12 @@
 </details>
 
 <details>
-    <summaryProyects</summary>
-    
+    <summary>Proyects</summary>
+    <div><a href="https://github.com/Sapitorico">
     [![Readme Card](https://github.com/Sapitorico/holbertonschool-printf)
     
     [![Readme Card](https://github.com/Sapitorico/holbertonschool-simple_shell)
+    </div>
 </details>   
 
 <br />
