@@ -25,15 +25,15 @@
 </details>
 
 <details>
-    <summary>Proyects</summary>
-    <div><a href="https://github.com/Sapitorico">
-    [![Readme Card](https://github.com/Sapitorico/holbertonschool-printf)
-    
-    [![Readme Card](https://github.com/Sapitorico/holbertonschool-simple_shell)
-    </div>
-</details>   
+    <summary><h3 align="center">Projects</h3> </summary>
+        
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sapitorico&repo=holbertonschool-simple_shell
+)](https://github.com/Sapitorico/holbertonschool-simple_shell)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sapitorico&repo=holbertonschool-printf)](https://github.com/Sapitorico/holbertonschool-printf)
+        
 <br />
+</details>   
 
  ---
  
