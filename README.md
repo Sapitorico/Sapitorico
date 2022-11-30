@@ -35,7 +35,9 @@
 <h4 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h4>
 
 <div>
+    
   <a href="https://github.com/Sapitorico">
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapitorico&theme=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sapitorico&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapitorico&layout=compact&langs_count=7&theme=radical"/>
 </div>
