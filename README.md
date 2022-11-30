@@ -24,6 +24,14 @@
 </p>
 </details>
 
+<details>
+    <summaryProyects</summary>
+    
+    [![Readme Card](https://github.com/Sapitorico/holbertonschool-printf)
+    
+    [![Readme Card](https://github.com/Sapitorico/holbertonschool-simple_shell)
+    
+
 <br />
 
  ---
