@@ -95,8 +95,6 @@
 ![Snake animation](https://raw.githubusercontent.com/Sapitorico/Sapitorico/b6e1c169d533bfe72640b2603eee6e3f9320241c/github-contribution-grid-snake.svg)
  
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 ---
 
 [instagram]: https://www.instagram.com/_sapitorico/
