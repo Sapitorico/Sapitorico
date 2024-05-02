@@ -2,6 +2,10 @@
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcS0K8idNvrOKgP5sH-_q4BKi3lkCyVSeag&usqp=CAU"
             alt="icono_de_sapo" style="width:20px;height:20px;"> </h1>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=34&duration=2000&pause=2000&color=24F700&center=true&vCenter=true&random=false&width=435&lines=Think%2C+Analyze%2C+Plan%2C+and+Execute." alt="Typing SVG" /></a>
+</div>
+
 ###
 
 <br clear="both">
