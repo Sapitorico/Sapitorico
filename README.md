@@ -30,6 +30,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=Sapitorico&theme=monokai&no-frame=true&no-bg=true&row=1" height="150" alt="trophy graph"  />
 </div>
 
+<h2>Skills 💼</h2>
+
 ###
 
 <br clear="both">
@@ -38,9 +40,11 @@
 
 ###
 
-<h2>Skills 💼</h2>
+<details>
+<summary>Lenguajes 💻</summary>
+            
+&nbsp;
 
-#### Lenguajes 💻
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
   <img width="12" />
@@ -56,8 +60,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3 logo" />
 </div>
+</details>
 
-#### Frameworks 🛠️
+<details>
+<summary>Frameworks 🛠️</summary>
+
+&nbsp;
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
   <img width="12" />
@@ -71,8 +80,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
+</details>
 
-#### Deployment 🚀
+<details>
+<summary>Deployment 🚀</summary>
+
+&nbsp;
+            
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="Amazon Web Services logo" />
   <img width="12" />
@@ -80,8 +94,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel logo" />
 </div>
+</details>
 
-#### Libraries 📚
+<details>
+<summary>Libraries 📚</summary>
+
+&nbsp;
+            
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
   <img width="12" />
@@ -93,15 +112,25 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest logo"  />
 </div>
+</details>
 
-#### Control 🔧
+<details>
+<summary>Control 🔧</summary>
+
+&nbsp;
+            
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
 </div>
+</details>
 
-#### Editors ✏️
+<details>
+<summary>Editors ✏️</summary>
+
+&nbsp;
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code logo" />
   <img width="12" />
@@ -109,8 +138,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
 </div>
+</details>
 
-#### Tools 🛠️
+<details>
+<summary>Tools 🛠️</summary>
+
+&nbsp;
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="Apache Kafka logo" />
   <img width="12" />
@@ -118,8 +152,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
+</details>
 
-#### Databases 🗃️
+<details>
+<summary>Databases 🗃️</summary>
+
+&nbsp;
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
   <img width="12" />
@@ -127,13 +166,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis logo" />
 </div>
+</details>
 
-#### Environments 🌐
+<details>
+<summary>Environments 🌐</summary>
+
+&nbsp;
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo" />
 </div>
+</details>
 
 ###
 
