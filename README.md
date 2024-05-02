@@ -37,9 +37,10 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif"  />
 
 ###
-## Skills
 
-#### Lenguajes
+<h2>Skills 💼</h2>
+
+#### Lenguajes 💻
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
   <img width="12" />
@@ -53,10 +54,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3 logo" /
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3 logo" />
 </div>
 
-#### Frameworks
+#### Frameworks 🛠️
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
   <img width="12" />
@@ -71,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
-#### Deployment
+#### Deployment 🚀
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="Amazon Web Services logo" />
   <img width="12" />
@@ -80,7 +81,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel logo" />
 </div>
 
-#### Libraries
+#### Libraries 📚
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
   <img width="12" />
@@ -93,14 +94,14 @@
   <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest logo"  />
 </div>
 
-#### Control
+#### Control 🔧
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
 </div>
 
-#### Editors
+#### Editors ✏️
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code logo" />
   <img width="12" />
@@ -109,7 +110,7 @@
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
 </div>
 
-#### Tools
+#### Tools 🛠️
 <div align="left">
   <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="Apache Kafka logo" />
   <img width="12" />
@@ -118,7 +119,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-#### Databases
+#### Databases 🗃️
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
   <img width="12" />
@@ -127,7 +128,7 @@
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis logo" />
 </div>
 
-#### Environments
+#### Environments 🌐
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo" />
   <img width="12" />
