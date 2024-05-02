@@ -1,101 +1,141 @@
-<div id="header" align="center">
-
-![](https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif)
-
-<h1 class="page_title" align="center">Hi there 👋, I am Renzo Yaques - Alias Sapitorico <img
+<h1 align="center">👋 Hi, I'm Renzo, and I'm a software developer. 💻<img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMcS0K8idNvrOKgP5sH-_q4BKi3lkCyVSeag&usqp=CAU"
-            alt="icono_de_sapo" style="width:20px;height:20px;"></h1>
+            alt="icono_de_sapo" style="width:20px;height:20px;"> </h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="www.linkedin.com/in/renzo-yaques-253-456-b36" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="renzoyaques@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <a href="https://www.instagram.com/_sapardo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
-<table align="right">
-    <tr>
-        <td>
-            <a href="https://www.linkedin.com/in/renzo-yaques-b36456253/" target="blank"><img align="center"
-                                                                                              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                                                                                              alt="https://www.linkedin.com/in/renzo-yaques-b36456253/"
-                                                                                              height="20"
-                                                                                              width="30"/></a>
-            <a href="https://stackoverflow.com/users/20286128/sapitorico" target="blank"><img align="center"
-                                                                                              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                                                                                              alt="user:20286128"
-                                                                                              height="20"
-                                                                                              width="30"/></a>
-            <a href="https://instagram.com/_sapitorico" target="blank"><img align="center"
-                                                                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                                                                            alt="_sapitorico" height="20"
-                                                                            width="30"/></a>
-        </td>
-    </tr>
-</table>
+###
 
-<details>
-    <summary>👨‍💻 About me!</summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sapitorico&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="170" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sapitorico&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=8" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sapitorico&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=monokai&hide_border=true" height="170" alt="languages graph"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapitorico&layout=compact&langs_count=7&theme=monokai" />
+  <img src="https://github-profile-trophy.vercel.app?username=Sapitorico&theme=monokai&no-frame=true&no-bg=true&row=1" height="150" alt="trophy graph"  />
+</div>
 
- ### ¡¡¡¡I'm a back-end developer and machine learning developer 🦾🤖🦿🖥️🧠👾!!!!
-- 🔭 I am currently looking for work as a developer, and in the process of developing for my own projects.
-- 📫 How to reach me **renzoyaques@gmail.com**
-</details>
+###
 
-<details>
-    <summary><h3 align="center">Projects</h3></summary>
+<br clear="both">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sapitorico&repo=holbertonschool-simple_shell)](https://github.com/Sapitorico/holbertonschool-simple_shell)
+<img align="right" height="150" src="https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif"  />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sapitorico&repo=holbertonschool-printf)](https://github.com/Sapitorico/holbertonschool-printf)
+###
+## Skills
 
-</details>    
+#### Lenguajes
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="Bash logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="C logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS3 logo" /
+</div>
 
- ---
+#### Frameworks
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+#### Deployment
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="Amazon Web Services logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel logo" />
+</div>
 
----
+#### Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="TensorFlow logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" height="30" alt="pytest logo"  />
+</div>
 
-# 📊 GitHub Stats:
+#### Control
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub logo" />
+</div>
 
-  <a href="https://github.com/Sapitorico">
+#### Editors
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="30" alt="Vim logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+</div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sapitorico&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sapitorico&layout=compact&langs_count=7&theme=radical"/>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sapitorico&layout=compact&langs_count=7&theme=radical" alt="Sapitorico" />
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sapitorico&layout=compact&langs_count=7&theme=radical" />
+#### Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="Apache Kafka logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sapitorico&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+#### Databases
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis logo" />
+</div>
+
+#### Environments
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="Ubuntu logo" />
+</div>
+
+###
 
 ![Snake animation](https://raw.githubusercontent.com/Sapitorico/Sapitorico/b6e1c169d533bfe72640b2603eee6e3f9320241c/github-contribution-grid-snake.svg)
- 
 
----
-
-[instagram]: https://www.instagram.com/_sapitorico/
+###
