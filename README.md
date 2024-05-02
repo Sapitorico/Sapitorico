@@ -30,8 +30,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Sapitorico&theme=monokai&no-frame=true&no-bg=true&row=1" height="150" alt="trophy graph"  />
 </div>
 
-<h2>Skills 💼</h2>
-
 ###
 
 <br clear="both">
@@ -39,6 +37,8 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/105575956/198360498-3e32cd6c-8c3f-4b38-be27-b696378140b6.gif"  />
 
 ###
+
+<h2>Skills 💼</h2>
 
 ### Languages 💻
 <div align="left">
